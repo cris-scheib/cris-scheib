@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cris-scheib, 23 years old, student, full stack developer and always trying new things
+- 👋 Hello there, I’m @cris-scheib, 23 years old, student, full stack developer and always trying new things
 - 👀 I’m interested in web development, machine learning and scientific projects
 - 🌱 I’m currently learning machine learning and deep learning
 - 💞️ I’m looking to collaborate on web projects and/or scientific projects
